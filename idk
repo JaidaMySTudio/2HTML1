@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background: #fff;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2, h3 {
+            color: #444;
+        }
+        a {
+            color: #007BFF;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Privacy Policy</h1>
+        <p><strong>Date of Last Version:</strong> November 25, 2024</p>
+
+        <h2>Introduction</h2>
+        <p>
+            World Martial Arts Center, inc., a Virginia limited liability company, (“World Martial Arts Center”) owns and operates the internet website available at 
+            <a href="https://www.happykicks.com/">https://www.happykicks.com/</a> (“Website”) and the application called “World Martial Arts Center” (“App”). 
+            Our Website and App are collectively hereinafter referred to as the “Application”. Unless the context requires otherwise, a reference to the “Application” 
+            includes all modifications, enhancements or updates thereto, and includes all associated printed, online or electronic documentation and instructions relating to it.
+        </p>
+        <p>
+            World Martial Arts Center believes in protecting the privacy of the users of the Application. This privacy policy (the “Privacy Policy”) is provided to inform you 
+            how we use, collect and protect the information you provide to us. This Privacy Policy also provides information on how you can contact us if you have any questions. 
+            Please note that by accessing the Application, you agree to the terms and conditions of our Privacy Policy and our User Agreement.
+        </p>
+
+        <h2>Personal Information Provided to Us</h2>
+        <p>
+            World Martial Arts Center does not collect any personal information from you unless you provide personal data such as your name, address, telephone number, 
+            and email address to us for requesting information or registering with our Application. When you download or subscribe to our Application, we will ask you 
+            to provide billing information. When you register for or attend any programs or courses, you will be required to provide basic contact information, billing 
+            information, and information regarding programs and courses you are interested in.
+        </p>
+
+        <h2>Information Collected Automatically From Application Users</h2>
+        <p>
+            World Martial Arts Center and our IT service providers (such as Google Analytics) may use common internet technologies, such as cookies, log files, web beacons, 
+            or clear gifs to keep track of your use and interactions with the Application...
+        </p>
+        <!-- Additional content omitted for brevity -->
+        
+        <h2>Contact Us</h2>
+        <p>
+            If you have any questions, concerns, or comments regarding this Privacy Policy or would like to review, update, delete, or request personal information 
+            that you provided to us, please email us at <a href="mailto:info@happykicks.com">info@happykicks.com</a>.
+        </p>
+    </div>
+</body>
+</html>
